@@ -1,0 +1,20 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "The Tech Blog is used to inform other developers about new and old concepts even tips and tricks. use the Blog to post or just to browse.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manniemd/Tech-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manniemd/Tech-blog/issues"
+  },
+  "homepage": "https://github.com/manniemd/Tech-blog#readme"
+}

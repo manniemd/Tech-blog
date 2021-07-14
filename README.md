@@ -14,7 +14,8 @@ The Tech Blog is used to inform other developers about new and old concepts even
 - JavaScript
 - Sequelize
 - MySQL
-- Express
+- Heroku
+- dotenv
 
 # Deployment
 
